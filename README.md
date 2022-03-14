@@ -1,5 +1,8 @@
 # HEART DISEASE PREDICTION USING MACHINE LEARNING
 --Kernel functions
+
+
+
 -Linear
 These are commonly recommended for text classification because most of these types of classification problems are linearly separable.
 
